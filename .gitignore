@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+kaggle.json
 roadapikey.txt
 kakaoapikey.txt
 guideSearchApi/
